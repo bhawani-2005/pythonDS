@@ -107,7 +107,7 @@ Graphs and charts are created to represent trends clearly.
 Basic machine learning models can be used to predict crop prices based on weather.
 
 
-Features
+#Features
 
  1. Crop vs Weather Comparison
 
@@ -135,7 +135,7 @@ Analyze weather impact
  Understand correlation results easily
 
 
- Future Improvements
+ #Future Improvements
 
  1. Add More Crops
 
